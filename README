@@ -1,0 +1,7 @@
+# process_from_NCBI_fasta
+
+1. This tool includes two useful sctipts: process_from_NCBI_fasta.pl and search_taxa_info.pl. The first script may use the second one if required. The first script aims at processing sequences downloaded from NCBI in the format of fasta. The second script is to mainly get the taxonomic information of given taxon/taxa.
+
+2. Please type perldoc SCRIPTNAME to the usage of these two scripts.
+
+3. If you have any question/suggestion, please write e-mails to sishuowang@hotmail.ca. Your help is highly appreciated!
